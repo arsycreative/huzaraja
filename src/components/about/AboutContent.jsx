@@ -136,7 +136,7 @@ export default function AboutContent() {
             <div className="rounded-2xl border border-emerald-400/40 bg-white/10 p-4 backdrop-blur">
               <div className="relative h-56 overflow-hidden rounded-xl border border-emerald-400/40 bg-slate-900 shadow-2xl shadow-emerald-900/50">
                 <Image
-                  src="/factory-yard.jpg"
+                  src="/why-docs.jpeg"
                   alt="Area penampungan limbah industri"
                   fill
                   sizes="(min-width: 1024px) 480px, 100vw"

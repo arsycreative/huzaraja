@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://huzaraja.netlify.app/sitemap.xml
